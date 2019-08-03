@@ -1,0 +1,36 @@
+body {
+    background-color: #1e0f7d
+}
+.ouisuk{
+    font-size: 10em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding-right: 0%
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color:white
+}
+a:hover{
+    color:grey
+}
+a:active{
+    color: black
+}
+
+#container {
+    position: relative;
+}
+#animateOui {
+    position: absolute;
+}
+#animateSuk {
+    position: absolute;
+}
